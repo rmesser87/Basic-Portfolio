@@ -141,3 +141,13 @@ h1 {
    margin-right: 143px;
    color: #777777;
  }
+ 
+ input[type="submit"] {
+   background-color: #4aaaa5;
+   color: white;
+   padding: 8px;
+ }
+
+ Name:{
+   color: #777777
+ }
